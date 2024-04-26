@@ -4,12 +4,13 @@
 As a seasoned multi-instrumentalist with accolades in music and a minor in entrepreneurship, I bring a distinct perspective to [name of company]. My journey reflects a commitment to excellence forged through persistence and dedication. I've honed interpersonal finesse through international speaking engagements, including TEDxYouth in Brunei. Skilled in organisation and community building, I'm poised to contribute meaningfully to [project] alongside the esteemed team at [name of company].
 
 ### Education
-B.Mus in Performance 
+**B.Mus in Performance**
+Mcgill University, Montreal, QC
   - Major: Piano
   - Minor: Entrepreneurship 
   - Studio Class Organiser
 
-High School Diploma 
+**High School Diploma** 
 Jerudong International School, Brunei
   - Sandpiper House Deputy Captain
   - Concertmaster JIS Orchestra
