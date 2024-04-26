@@ -1,5 +1,5 @@
 ## Musician, Mentor, Meditator
-[Graduation Photo](Shian Li Graduated.JPG)
+![Graduation Photo](Shian Li Graduated.JPG)
 
 ### Summary
 As a seasoned multi-instrumentalist with accolades in music and a minor in entrepreneurship, I bring a distinct perspective to [name of company]. My journey reflects a commitment to excellence forged through persistence and dedication. I've honed interpersonal finesse through international speaking engagements, including TEDxYouth in Brunei. Skilled in organisation and community building, I'm poised to contribute meaningfully to [project] alongside the esteemed team at [name of company].
